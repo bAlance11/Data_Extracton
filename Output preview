@@ -1,0 +1,5 @@
+Your output will be a csv file with data like this 
+
+time,open,high,low,close,volume
+2023-01-01 00:00:00,16500,16700,16300,16650,123.45
+2023-01-02 00:00:00,16650,17000,16500,16890,234.56
